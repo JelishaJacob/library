@@ -56,3 +56,11 @@ form{
     border: 2px solid rgb(255 200 0);
     margin-right: 100px;
 }
+
+#remove{
+    height: 30px;
+    background-color: rgb(255 200 0);
+    border: none;
+    border-radius: 5px;
+    
+}

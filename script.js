@@ -29,7 +29,7 @@ function displayBooks() {
         <p><strong>${Book.title}</strong></p>
         <p>by ${Book.author}</p>
         <p>${Book.pages} pages</p>
-        <br>
+        
         <button id="remove" onclick="removeBook(${index})">Remove</button>
         `;
         booklist.appendChild(bookcard)
